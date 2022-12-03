@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> </h1>
+Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a>
 <br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramzini22)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
